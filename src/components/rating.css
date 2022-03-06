@@ -1,0 +1,16 @@
+button {
+    background-color:transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+.rating{
+    border:8px solid #949393;
+    padding:2.8rem;
+    text-align: center;
+    width:30rem;
+  }
+  
+  
