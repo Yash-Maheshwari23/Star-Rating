@@ -12,5 +12,14 @@ button {
     text-align: center;
     width:30rem;
   }
+
+.on {
+    color: #f7c05c;
+  }
   
+.off {
+    color: #ccc;
+  }
+  
+
   
